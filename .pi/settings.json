@@ -1,0 +1,15 @@
+{
+    "model": {
+        "provider": "groq",
+        "id": "moonshotai/kimi-k2-instruct-0905"
+    },
+    "thinkingLevel": "medium",
+    "compaction": {
+        "enabled": true
+    },
+    "retry": {
+        "enabled": true,
+        "maxRetries": 3
+    },
+    "enableSkillCommands": true
+}
